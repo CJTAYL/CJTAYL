@@ -1,7 +1,20 @@
-### Hi there 👋
+### Hi, I'm Chris!
 
 - 📫 How to reach me: CJTAYL@proton.me
 
+Skills
+- Languages
+  - Python
+  - R
+  - SQL
+- Statistics
+- Communication
+- Collaboration
+
+Education
+- Master's Degree: University of Colorado Boulder - Data Science
+- Master's Degree: University of Kentucky - Education
+- Bachelor's Degree: University of Kentucky - Psychology
 <!--
 **CJTAYL/CJTAYL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
