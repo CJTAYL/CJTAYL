@@ -10,14 +10,14 @@ Interests: Machine Learning, Statistics, Education, Healthcare
   - R
   - SQL
 - Statistics
-- Communication
+- Consulting
 - Collaboration
 
 **Education**
 - Master's Degree: University of Colorado Boulder - Data Science
 - Master's Degree: University of Kentucky - Education
 - Bachelor's Degree: University of Kentucky - Psychology
-- 
+  
 <!--
 **CJTAYL/CJTAYL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
