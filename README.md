@@ -26,11 +26,6 @@ The code from this project was used to create a [tutorial](https://medium.com/to
 
 **Comparison of Machine Learning Models to Detect Heart Disease** (Coming soon)
 
-## Work Experience 
-**Graduate Student @ University of Colorado Boulder (_June 2022 - March 2024_)**
-
-**Consultant @ Kind Behavioral Health (_November 2019 - June 2022_)**
-
 ## Social Media
 - [Medium](https://medium.com/@cjtayl2)
 - [LinkedIn](https://www.linkedin.com/in/christopher-taylor-4b476a34/)
