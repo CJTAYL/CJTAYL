@@ -17,7 +17,7 @@ Machine Learning, Statistics, Problem Solving
 
 This project compared k-means clustering informed by an elbow plot and silhouette score when organizing data from the Seeds dataset in the University of California at Irvine's Machine Learning Repository. The implementations were evaluated using internal and external metrics. The results of the project indicated that k-means clustering informed by the silhouette score performed better on the internal metrics and k-means clustering informed by an elbow plot performed better on the external metrics. 
 
-**Comparison of Machine Learning Models to Detect Heart Disease** [GitHub](https://github.com/CJTAYL/heart_disease)
+**Comparison of Machine Learning Models to Detect Heart Disease** [GitHub](https://github.com/CJTAYL/heart_disease) (Under Construction)
 
 Four machine learning algorithms were used to predict heart disease in a set of patients. The algorithms used were (a) Logistic regression, (b) Random forest, (d) Support-vector machine, and (e) k-Nearest neighbor. All models were built with Scikit-learn. The models were evaluated using accuracy, sensitivity, F1 score, and Area Under the Curve - Receiver Operating Characteristic (AUC-ROC). The results of the project indicated that k-Nearest neighbor was the best performing algorithm.
 
