@@ -15,11 +15,6 @@
 - M.S., Education | University of Kentucky (_December 2015_)
   - GPA 4.0/4.0
 
-## Work Experience 
-**Graduate Student @ University of Colorado Boulder (_June 2022 - March 2024_)**
-
-**Consultant @ Kind Behavioral Health (_November 2019 - June 2022_)**
-
 ## Projects
 **Comparison of Methods to Inform K-Means** [GitHub](https://github.com/CJTAYL/kmeans_comparison)
 
@@ -31,37 +26,11 @@ The code from this project was used to create a [tutorial](https://medium.com/to
 
 **Comparison of Machine Learning Models to Detect Heart Disease** (Coming soon)
 
+## Work Experience 
+**Graduate Student @ University of Colorado Boulder (_June 2022 - March 2024_)**
+
+**Consultant @ Kind Behavioral Health (_November 2019 - June 2022_)**
+
 ## Social Media
 - [Medium](https://medium.com/@cjtayl2)
 - [LinkedIn](https://www.linkedin.com/in/christopher-taylor-4b476a34/)
-
-Interests: Machine Learning, Statistics, Education, Healthcare
-
-**Skills**
-- Languages
-  - Python
-  - R
-  - SQL
-- Statistics
-- Consulting
-- Collaboration
-
-**Education**
-- Master's Degree: University of Colorado Boulder - Data Science
-- Master's Degree: University of Kentucky - Education
-- Bachelor's Degree: University of Kentucky - Psychology
-  
-<!--
-**CJTAYL/CJTAYL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
