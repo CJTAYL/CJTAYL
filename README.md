@@ -15,7 +15,7 @@ Machine Learning, Statistics, Problem Solving
 ## Projects
 **Comparison of Methods to Inform K-Means** [GitHub](https://github.com/CJTAYL/kmeans_comparison)
 
-This project compared k-means clustering informed by an elbow plot and silhouette score when organizing data from the Seeds dataset in the University of California at Irvine's Machine Learning Repository. The implementations were evaluated using internal and external metrics. The results of the project indicated that k-means clustering informed by the silhouette score performed better on the internal metrics and k-means clustering informed by an elbow plot performed better on the external metrics. 
+The purpose of the project was to compare k-means clustering informed by an elbow plot and silhouette score. The implementations were evaluated using internal and external metrics. The results of the project indicated that k-means clustering informed by silhouette score performed better on the internal metrics and k-means clustering informed by an elbow plot performed better on the external metrics. 
 
 **Comparison of Machine Learning Models to Detect Heart Disease** [GitHub](https://github.com/CJTAYL/heart_disease) (Under Construction)
 
