@@ -16,9 +16,9 @@
 
 This project compared k-means clustering informed by an elbow plot and silhouette score when organizing data from the Seeds dataset in the University of California at Irvine's Machine Learning Repository.
 
-**Predicting Life Expectancy with Elastic-Net Regression** (Coming soon)
-
 **Comparison of Machine Learning Models to Detect Heart Disease** (Coming soon)
+
+**Web App to Predict Diabetes** [Link](https://shorturl.at/ntxVX) 
 
 ## Education
 - M.S., Data Science | University of Colorado, Boulder (_March 2024_)
