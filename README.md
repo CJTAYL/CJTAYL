@@ -17,13 +17,13 @@ Machine Learning, Statistics, Problem Solving
 
 The purpose of the project was to compare k-means clustering informed by an elbow plot and silhouette score. The implementations were evaluated using internal and external metrics. The results of the project indicated that k-means clustering informed by silhouette score performed better on the internal metrics and k-means clustering informed by an elbow plot performed better on the external metrics. 
 
-Methods & Tools: Python, Scikit-learn, Pandas, Matplotlib, Numpy, Scipy, and Seaborn
+Methods & Tools: K-Means Clustering, Python, Scikit-learn, Pandas, Matplotlib, Numpy, Scipy, and Seaborn
 
 **Comparison of Machine Learning Models to Detect Heart Disease** [GitHub](https://github.com/CJTAYL/heart_disease) (Under Construction)
 
 Four machine learning algorithms were used to predict heart disease in a set of patients. The algorithms used were (a) Logistic regression, (b) Random forest, (d) Support-vector machine, and (e) k-Nearest neighbor. The models were evaluated using accuracy, sensitivity, F1 score, and Area Under the Curve - Receiver Operating Characteristic (AUC-ROC). The results of the project indicated that k-Nearest neighbor was the best performing algorithm.
 
-Methods & Tools: Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Math, and Numpy
+Methods & Tools: Logistic Regression, Random Forest Classifier, Support-Vector Machine, K-Nearest Neighbor, Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Math, and Numpy
 
 **Web App to Screen for Diabetes** [Shiny App](https://shorturl.at/ntxVX) 
 
