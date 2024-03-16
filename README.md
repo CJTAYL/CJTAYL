@@ -19,13 +19,13 @@ The purpose of the project was to compare k-means clustering informed by an elbo
 
 <ins>Methods & Tools</ins>: K-Means Clustering, Python, Scikit-learn, Pandas, Matplotlib, Numpy, Scipy, and Seaborn
 
-**Comparison of Machine Learning Models to Detect Heart Disease** [GitHub](https://github.com/CJTAYL/heart_disease)
+### Comparison of Machine Learning Models to Detect Heart Disease [GitHub](https://github.com/CJTAYL/heart_disease)
 
 Four machine learning algorithms were used to predict heart disease in a set of patients. The algorithms used were (a) Logistic regression, (b) Random forest, (d) Support-vector machine, and (e) k-Nearest neighbor. The models were evaluated using accuracy, sensitivity, F1 score, and Area Under the Curve - Receiver Operating Characteristic (AUC-ROC). The results of the project indicated that k-Nearest neighbor was the best performing algorithm.
 
 <ins>Methods & Tools</ins>: Logistic Regression, Random Forest Classifier, Support-Vector Machine, K-Nearest Neighbor, Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Math, and Numpy
 
-**Web App to Screen for Diabetes** [Shiny App](https://shorturl.at/ntxVX) 
+### Web App to Screen for Diabetes [Shiny App](https://shorturl.at/ntxVX) 
 
 Designed and built web app to predict the probability of a person having diabetes based on sex, age, presence of hypertension, history of heart disease, body mass index, HbA1c level, and blood glucose level. 
 
