@@ -17,7 +17,7 @@ Machine Learning, Statistics, Problem Solving
 
 The purpose of the project was to compare k-means clustering informed by an elbow plot and silhouette score. The implementations were evaluated using internal and external metrics. The results of the project indicated that k-means clustering informed by silhouette score performed better on the internal metrics and k-means clustering informed by an elbow plot performed better on the external metrics. 
 
-Methods & Tools: K-Means Clustering, Python, Scikit-learn, Pandas, Matplotlib, Numpy, Scipy, and Seaborn
+<Methods & Tools>: K-Means Clustering, Python, Scikit-learn, Pandas, Matplotlib, Numpy, Scipy, and Seaborn
 
 **Comparison of Machine Learning Models to Detect Heart Disease** [GitHub](https://github.com/CJTAYL/heart_disease) (Under Construction)
 
