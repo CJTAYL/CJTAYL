@@ -13,7 +13,7 @@ Machine Learning, Statistics, Problem Solving
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Projects
-**Comparison of Methods to Inform K-Means** [GitHub](https://github.com/CJTAYL/kmeans_comparison)
+### Comparison of Methods to Inform K-Means [GitHub](https://github.com/CJTAYL/kmeans_comparison)
 
 The purpose of the project was to compare k-means clustering informed by an elbow plot and silhouette score. The implementations were evaluated using internal and external metrics. The results of the project indicated that k-means clustering informed by silhouette score performed better on the internal metrics and k-means clustering informed by an elbow plot performed better on the external metrics. 
 
