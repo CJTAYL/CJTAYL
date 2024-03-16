@@ -19,7 +19,7 @@ The purpose of the project was to compare k-means clustering informed by an elbo
 
 <ins>Methods & Tools</ins>: K-Means Clustering, Python, Scikit-learn, Pandas, Matplotlib, Numpy, Scipy, and Seaborn
 
-**Comparison of Machine Learning Models to Detect Heart Disease** [GitHub](https://github.com/CJTAYL/heart_disease) (Under Construction)
+**Comparison of Machine Learning Models to Detect Heart Disease** [GitHub](https://github.com/CJTAYL/heart_disease)
 
 Four machine learning algorithms were used to predict heart disease in a set of patients. The algorithms used were (a) Logistic regression, (b) Random forest, (d) Support-vector machine, and (e) k-Nearest neighbor. The models were evaluated using accuracy, sensitivity, F1 score, and Area Under the Curve - Receiver Operating Characteristic (AUC-ROC). The results of the project indicated that k-Nearest neighbor was the best performing algorithm.
 
