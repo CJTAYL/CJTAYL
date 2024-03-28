@@ -18,7 +18,7 @@ Machine Learning, Statistics, Problem Solving
 
 (under construction)
 
-The purpose of the project was to conduct a series of hypothesis tests to evaluate the effects of a new marketing campaign introduced by a fictious advertisement agency. 
+The purpose of the project was to conduct a series of hypothesis tests to evaluate the effects of a new marketing campaign introduced by a fictitious advertisement agency. 
 
 ### Comparison of Methods to Inform K-Means 
 
