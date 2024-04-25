@@ -18,7 +18,7 @@ Machine Learning, Statistics, Problem Solving
 
 [GitHub Repository](https://github.com/CJTAYL/ab_testing)
 
-The purpose of the project was to conduct a independent t-test to evaluate the effects of a proposed advertising campaign. The results of the test indidicated a statistically significant difference between the consumers exposed to the current and proposed campaigns. Specifically, consumers exposed to the proposed advertising campaign spent more total dollars compared to consumers exposed to the current advertising campaign. 
+The purpose of the project was to conduct an independent t-test to evaluate the effects of a proposed advertising campaign. The results of the test indidicated a statistically significant difference between the consumers exposed to the current and proposed campaigns. Specifically, consumers exposed to the proposed advertising campaign spent more total dollars compared to consumers exposed to the current advertising campaign. 
 
 <ins>Methods & Tools</ins>: Python, SciPy, Pandas, Matplotlib, Numpy, Seaborn, and Statsmodels
 
