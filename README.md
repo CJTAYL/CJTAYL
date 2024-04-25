@@ -14,11 +14,11 @@ Machine Learning, Statistics, Problem Solving
 
 ## Projects
 
-### Using Hypothesis Tests to Compare Marketing Methods 
+### Using Hypothesis Tests to Compare Advertising Methods 
 
-(under construction)
+[GitHub Repository](https://github.com/CJTAYL/ab_testing)
 
-The purpose of the project was to conduct a series of hypothesis tests to evaluate the effects of a new marketing campaign introduced by a fictitious advertisement agency. 
+The purpose of the project was to conduct a independent t-test to evaluate the effects of a proposed advertising campaign. The results of the test indidicated a statistically significant difference between the consumers exposed to the current and proposed campaigns. Specifically, consumers exposed to the proposed advertising campaign spent more total dollars compared to consumers exposed to the current advertising campaign. 
 
 ### Comparison of Methods to Inform K-Means 
 
