@@ -5,7 +5,7 @@
   - [LinkedIn](https://www.linkedin.com/in/christopher-taylor-4b476a34/)
 
 ## Interests
-Machine Learning, Statistics, Problem Solving
+Business Analytics, Machine Learning, Statistics, Problem Solving
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,6 +13,14 @@ Machine Learning, Statistics, Problem Solving
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Projects
+
+## Predicting Personal Loan Utilization 
+
+Coming Soon.
+
+The purpose of the project was to predict whether or not a member of a credit union would utilize a personal loan. Overall the model performed well (accuracy, precision, and recall of 0.94) and predictions did not favor one class over the other significantly.
+
+<ins>Methods & Tools</ins>: Decision Tree, Data Validation, Python, Pandas, Matplotlib, Numpy, Seaborn, and Scikit-learn
 
 ### Using Hypothesis Tests to Compare Advertising Methods 
 
